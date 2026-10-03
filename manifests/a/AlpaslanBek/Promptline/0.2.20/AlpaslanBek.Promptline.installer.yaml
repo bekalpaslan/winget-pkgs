@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: AlpaslanBek.Promptline
-PackageVersion: 0.2.19
+PackageVersion: 0.2.20
 InstallerType: nullsoft
 Scope: user
 InstallModes:
@@ -17,7 +17,7 @@ ProductCode: Promptline
 ReleaseDate: 2026-10-03
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bekalpaslan/promptline/releases/download/v0.2.19/Promptline_0.2.19_x64-setup.exe
-  InstallerSha256: 42D76E03F4C9D1933F28E0C6182E832693901B064844235BA72DE39FA2433BE0
+  InstallerUrl: https://github.com/bekalpaslan/promptline/releases/download/v0.2.20/Promptline_0.2.20_x64-setup.exe
+  InstallerSha256: F610B44F5ACB5B8D490AA9DE92211CAB3B17C818C7A56FFD6394D8896B397719
 ManifestType: installer
 ManifestVersion: 1.10.0
